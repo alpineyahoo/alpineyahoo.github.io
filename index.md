@@ -1,3 +1,4 @@
+{: align="center"}
 [about](about) \| [blog](blog) \| [press](press) \| [contact](contact) \| [docs](docs) \| [info](info) \| [gist](gist)
 
 # ようこそ
