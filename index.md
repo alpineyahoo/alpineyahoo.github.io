@@ -5,3 +5,4 @@
 只今作成中です👷‍♂️
 - [demo](/demo)
 - [demo](demo)
+- [API Usage Ideas](gist/src/api-usage-ideas.md)
