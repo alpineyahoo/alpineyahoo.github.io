@@ -10,3 +10,5 @@
     - [生物学関係リンク集](biosci/links)
 - [RickRoll1](https://streamable.com/e/soji4)
 - [RickRoll2](https://streamable.com/o/dfd3m)
+
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/rickrolled/embed/" frameborder="0" scrolling="no"></iframe>
