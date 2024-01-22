@@ -8,3 +8,5 @@
 - [API Usage Ideas](post/gist/api-usage-ideas)
 - [#生物学](biosci)
     - [生物学関係リンク集](biosci/links)
+- [RickRoll1](https://streamable.com/e/soji4)
+- [RickRoll2](https://streamable.com/o/dfd3m)
