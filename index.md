@@ -1,5 +1,5 @@
 {: align="center"}
-[about](about) \| [blog](post/blog) \| [press](post/press) \| [contact](contact) \| [docs](docs) \| [info](info) \| [gist](post/gist)
+[about](about) \| [blog](post/blog) \| [press](post/press) \| [contact](contact) \| [docs](docs) \| [info](info) \| [gist](post/gist) \| [orebibou](orebibou)
 
 # ようこそ
 只今作成中です👷‍♂️
