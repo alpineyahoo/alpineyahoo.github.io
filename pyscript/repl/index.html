@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <title>interactive</title>
+
+    <!-- Recommended meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <!-- PyScript CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@pyscript/core/dist/core.css">
+
+    <!-- This script tag bootstraps PyScript -->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@pyscript/core/dist/core.js"></script>
+</head>
+<body>
+    <script type="mpy" src="./main.py" config="./pyscript.toml" terminal worker></script>
+    <br>
+    <script type="py" src="./repl.py" terminal></script>
+</body>
+</html>
