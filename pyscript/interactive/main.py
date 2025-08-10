@@ -1,2 +1,2 @@
-name = input("Type foobar ")
+name = await input("Type foobar ")
 print(f"You typed {name}")
